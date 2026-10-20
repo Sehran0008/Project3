@@ -1,3 +1,3 @@
 # New Project
 
-This Project was craeted from local system.
+This Project was craeted from local system
